@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Psycofeu/HydraTranslation
+build-by-default: true
+branches:
+- main
+projects:
+  HydraTranslation:
+    path: ""
+    model: virion
+    type: library
+...
