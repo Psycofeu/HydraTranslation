@@ -1,2 +1,11 @@
-# HydraTranslation
-HydraTranslation – a PocketMine library for multiple plugins. Easily add multilingual support with a simple API. Send translated messages with params, support multiple languages (from 1 to all mc langs), and make your plugins fully international in just a few lines of code.
+## HydraTranslation
+
+## Reason
+The new name better reflects the purpose of the library:  
+- Designed for **PocketMine-MP**  
+- Usable by **multiple plugins**  
+- Simple and easy to integrate  
+- Multi file usage (`fr.ini`, `en.ini`, `es.ini`, etc...)
+
+## Wiki:
+In wiki instructions
