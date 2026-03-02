@@ -8,4 +8,4 @@ The new name better reflects the purpose of the library:
 - Multi file usage (`fr.ini`, `en.ini`, `es.ini`, etc...)
 
 ## Wiki:
-In wiki instructions
+- Check [WIKI]("https://github.com/Psycofeu/HydraTranslation/wiki") for instructions
